@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 npm run dev
 npm i
 npm create vite@latest
+rfc
